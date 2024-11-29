@@ -1,0 +1,5 @@
+sensor.c:6:14:sensor_GetTemperature	4	static
+sensor.c:10:6:sensor_init	8	static
+sensor.c:14:6:sensor_Read	8	static
+sensor.c:18:6:sensor_CalTemperature	16	static
+sensor.c:22:7:sensor_result	16	static
